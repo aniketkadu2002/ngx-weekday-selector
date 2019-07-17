@@ -1,0 +1,8 @@
+.example {
+    position: relative;
+    padding: 1rem;
+    margin: 1rem - 15px;
+    border: solid #e9ecef;
+    border-width: .2rem;
+    display: inline-block
+  }

@@ -1,0 +1,8 @@
+<div class="btn-group btn-group-toggle" style="background-color:#999">
+    <label  *ngFor="let day of weekdays" class="btn-primary" ngbButtonLabel>
+      <div [ngClass]="getSize()" >
+        <input type="checkbox"  (click)="onClick($event, day)" [ngModel]="isSelected(day)" ngbButton> {{day}}
+      </div>
+      </label>
+</div>
+
