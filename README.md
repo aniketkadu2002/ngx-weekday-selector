@@ -19,7 +19,7 @@ Please check the component in action on https://angular-6gzkpe.stackblitz.io
 
 ## Dependencies
 
-The only two dependencies are [Angular](https://angular.io) and [Bootstrap 4](https://getbootstrap.com) CSS.
+The only dependencies are [Angular](https://angular.io) and [Bootstrap 4](https://getbootstrap.com) CSS and [ng-bootstrap](https://ng-bootstrap.github.io)
 Here is the list of minimal required versions:
 
 ngx-weekday-selector| ng-bootstrap | Angular | Bootstrap CSS | 
